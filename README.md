@@ -1,7 +1,7 @@
 # RobotAutomationWebApiMobile
 This repository contains a development of the Web and Mobile App and API Automation Tests create in Robot Framework as result to RobotWeek
 
-Setup
+## Setup <h2> tag
 * Install Java JDK8
 * Install Python 3
 * Download Cmder
@@ -14,7 +14,7 @@ Setup
   * Install Appium (npm install appium -g)
   * Install Appium Doctor (npm install appium-doctor -g)
 
-Configure Environment Variables
+## Configure Environment Variables <h2> tag
 * **JAVA_HOME** = C:\Program Files\Java\jdk1.8.0_261
 * **MVN_HOME** = C:\ProgramData\apache-maven-3.6.3
 * **ANDROID_HOME** = C:\Users\User\AppData\Local\Android\Sdk
