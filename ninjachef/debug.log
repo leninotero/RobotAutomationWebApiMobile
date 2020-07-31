@@ -1,0 +1,4 @@
+[0712/203418.530:ERROR:crash_report_database_win.cc(558)] GetFileAttributes C:\Users\LENINA~1.OTE\AppData\Local\Temp\scoped_dir2108_2001150731\Crashpad: The system cannot find the file specified. (0x2)
+[0712/225620.265:ERROR:crash_report_database_win.cc(558)] GetFileAttributes C:\Users\LENINA~1.OTE\AppData\Local\Temp\scoped_dir17240_450584190\Crashpad: The system cannot find the file specified. (0x2)
+[0712/225636.597:ERROR:crash_report_database_win.cc(558)] GetFileAttributes C:\Users\LENINA~1.OTE\AppData\Local\Temp\scoped_dir5500_58832253\Crashpad: The system cannot find the file specified. (0x2)
+[0712/231225.893:ERROR:crash_report_database_win.cc(558)] GetFileAttributes C:\Users\LENINA~1.OTE\AppData\Local\Temp\scoped_dir12628_1889204782\Crashpad: The system cannot find the file specified. (0x2)
